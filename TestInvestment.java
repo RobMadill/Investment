@@ -1,4 +1,4 @@
-public class Testinvestment {
+public class TestInvestment {
     public static void main(String[] args) {
         try {
             Investment inv1 = new Investment();
